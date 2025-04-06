@@ -1,0 +1,2 @@
+# SmartCodingAssistant
+smart coding assistant
